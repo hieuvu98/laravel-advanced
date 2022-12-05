@@ -1,0 +1,11 @@
+{
+    "name": "Eloquent",
+    "alias": "eloquent",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Eloquent\\Providers\\EloquentServiceProvider"
+    ],
+    "files": []
+}
